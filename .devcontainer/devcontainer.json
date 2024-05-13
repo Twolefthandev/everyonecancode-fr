@@ -9,7 +9,9 @@
       "extensions": [
         "ms-toolsai.jupyter",
         "ms-python.python",
-        "github.copilot"
+        "github.copilot",
+        "ms-azuretools.vscode-azurefunctions",
+        "vue.volar"
       ]
     }
   }
